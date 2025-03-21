@@ -70,7 +70,7 @@ A tela inicial do aplicativo Android permite que o usuário ative ou desative o 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/758e90de-d1d2-4f89-83eb-7286ee1bd022" alt="Tela Inicial do Aplicativo" />
 </div>
----
+
 
 ## 🚨 Alerta de Intruso
 
@@ -80,8 +80,6 @@ Quando o sensor de proximidade detecta movimento, o aplicativo envia um alerta p
 ### 🔹 Funcionalidades:
 - Envio de **alerta** para o servidor.
 - **Captura de imagem** do intruso e envio ao servidor.
-
-### 🖼️ Imagem:
 
 ### 🖼️ Imagem:
 <div align="center">
