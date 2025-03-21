@@ -65,8 +65,9 @@ A tela inicial do aplicativo Android permite que o usuário ative ou desative o 
 - Exibe o status do **sensor de proximidade**.
 
 ### 🖼️ Imagem:
-![Imagem do WhatsApp de 2025-03-20 à(s) 21 45 34_bc77697a](https://github.com/user-attachments/assets/758e90de-d1d2-4f89-83eb-7286ee1bd022)
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/758e90de-d1d2-4f89-83eb-7286ee1bd022" alt="Tela Inicial do Aplicativo" />
+</div>
 ---
 
 ## 🚨 Alerta de Intruso
@@ -80,11 +81,16 @@ Quando o sensor de proximidade detecta movimento, o aplicativo envia um alerta p
 
 ### 🖼️ Imagem:
 
-![Imagem do WhatsApp de 2025-03-20 à(s) 21 45 35_ddf51a73](https://github.com/user-attachments/assets/2b8bc963-4c90-46eb-9d9a-a70a44b75b3e)
+### 🖼️ Imagem:
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2b8bc963-4c90-46eb-9d9a-a70a44b75b3e" alt="Alerta de Intruso" />
+</div>
+
 ---
 
-![Imagem do WhatsApp de 2025-03-20 à(s) 21 45 35_3705dfd4](https://github.com/user-attachments/assets/2c83079a-5ee0-4073-9799-4a0b81d309e5)
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2c83079a-5ee0-4073-9799-4a0b81d309e5" alt="Alerta de Intruso 2" />
+</div>
 ---
 
 ## 💻 Tela de Alarme do Servidor
