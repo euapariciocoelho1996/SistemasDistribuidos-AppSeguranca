@@ -1,0 +1,2 @@
+C:/Users/fapar/conext_server/android/app/.cxx/Debug/3x84s3or/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/fapar/conext_server/android/app/.cxx/Debug/3x84s3or/x86_64/CMakeFiles/rebuild_cache.dir
