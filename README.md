@@ -29,8 +29,10 @@ Este projeto é um sistema de segurança que utiliza um aplicativo Android com s
 
 ### 1. Clone o repositório:
 
+```bash
 git clone https://github.com/seu-usuario/seguranca-monitoramento.git
 cd seguranca-monitoramento
+```
 
 ## 📸 Telas do Sistema
 
@@ -106,7 +108,9 @@ A tela do servidor exibe o alarme em execução e as imagens recebidas do aplica
 
 - **Exibição das imagens** capturadas do intruso.
 ---
-![Imagem do WhatsApp de 2025-03-20 à(s) 21 45 18_f9d4d488](https://github.com/user-attachments/assets/5253a095-67cf-416b-aa8b-8b63bf135cb1)
----
+<div align="center">
+ <img src="https://github.com/user-attachments/assets/739de52a-5898-4c40-a372-58d9390dbf1f" alt="Alerta de Intruso 2" />
+  </div>
+
 
 
