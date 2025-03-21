@@ -91,7 +91,7 @@ Quando o sensor de proximidade detecta movimento, o aplicativo envia um alerta p
 <div align="center">
   <img src="https://github.com/user-attachments/assets/2c83079a-5ee0-4073-9799-4a0b81d309e5" alt="Alerta de Intruso 2" />
 </div>
----
+
 
 ## 💻 Tela de Alarme do Servidor
 
